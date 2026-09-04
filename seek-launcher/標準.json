@@ -1,0 +1,49 @@
+{
+  "buttons": [
+    {
+      "label": "+5F",
+      "frames": 5,
+      "hotkey": "1"
+    },
+    {
+      "label": "+10F",
+      "frames": 10,
+      "hotkey": "2"
+    },
+    {
+      "label": "+30F",
+      "frames": 30,
+      "hotkey": "3"
+    },
+    {
+      "label": "+110F",
+      "frames": 110,
+      "hotkey": "5"
+    },
+    {
+      "label": "+175F",
+      "frames": 175
+    },
+    {
+      "label": "+300F",
+      "frames": 300,
+      "hotkey": "6"
+    },
+    {
+      "label": "+1000F",
+      "frames": 1000,
+      "hotkey": "7"
+    },
+    {
+      "label": "+4000F",
+      "frames": 4000,
+      "hotkey": "8"
+    },
+    {
+      "label": "+7000F",
+      "frames": 7000,
+      "hotkey": "9"
+    }
+  ],
+  "wait_between": 200
+}

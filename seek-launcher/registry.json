@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "category": "seek-launcher",
+  "items": [
+    {
+      "file": "標準.json",
+      "name": "標準",
+      "desc": "5F〜5000F+7216Fの基本セット"
+    }
+  ]
+}
