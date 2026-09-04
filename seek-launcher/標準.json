@@ -18,11 +18,12 @@
     {
       "label": "+110F",
       "frames": 110,
-      "hotkey": "5"
+      "hotkey": "4"
     },
     {
       "label": "+175F",
-      "frames": 175
+      "frames": 175,
+      "hotkey": "5"
     },
     {
       "label": "+300F",
