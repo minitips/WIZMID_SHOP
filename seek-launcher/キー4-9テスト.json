@@ -1,0 +1,11 @@
+{
+  "buttons": [
+    {"label": "+4F", "frames": 4, "hotkey": "4"},
+    {"label": "+5F", "frames": 5, "hotkey": "5"},
+    {"label": "+6F", "frames": 6, "hotkey": "6"},
+    {"label": "+7F", "frames": 7, "hotkey": "7"},
+    {"label": "+8F", "frames": 8, "hotkey": "8"},
+    {"label": "+9F", "frames": 9, "hotkey": "9"}
+  ],
+  "wait_between": 500
+}
